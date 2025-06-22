@@ -1,0 +1,128 @@
+{
+    "secciones":[
+        {
+            "id": "sesccion1",
+            "nombre": "Cartas para ti",
+            "colecciones": [
+                {
+                "id": "coleccion1",
+                "nombre": "Abreme cuando estés triste",
+                "ruta": "/colecciones/coleccion1",
+                "imagen": "https://ravenloni.github.io/abreme-cuando/images/barrera.jpg",
+                "disponible": true,
+                "color": "#FF5733",
+                "cartas": [
+                    {
+                        "id": "carta1",
+                        "title": "Carta de Tristeza",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta1"
+                    },
+                    {
+                        "id": "carta2",
+                        "title": "Carta de Tristeza 2",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta2"
+                    }
+                ]
+                },
+                {
+                "id": "coleccion2",
+                "nombre": "Abreme cuando estés feliz",
+                "ruta": "/colecciones/coleccion2",
+                "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+                "disponible": true,
+                "color": "#33FF57",
+                "cartas": [
+                    {
+                        "id": "carta3",
+                        "title": "Carta de Felicidad",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta3"
+                    },
+                    {
+                        "id": "carta4",
+                        "title": "Carta de Felicidad 2",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta4"
+                    }
+                ]
+                },
+                {
+                "id": "coleccion3",
+                "nombre": "Abreme cuando estés enfadado",
+                "ruta": "/colecciones/coleccion3",
+                "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+                "disponible": true,
+                "color": "#FF33A1",
+                "cartas": [
+                    {
+                        "id": "carta5",
+                        "title": "Carta de Enfado",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta5"
+                    },
+                    {
+                        "id": "carta6",
+                        "title": "Carta de Enfado 2",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta6"
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "id": "seccion2",
+            "nombre": "Próximos lanzamientos",
+            "colecciones": [
+                {
+                "id": "coleccion3",
+                "nombre": "Abreme cuando estés triste",
+                "ruta": "/colecciones/coleccion3",
+                "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+                "disponible": false,
+                "fecha_lanzamiento": "2025-06-22",
+                "color": "#FF5733",
+                "cartas": [
+                    {
+                        "id": "carta1",
+                        "title": "Carta de Tristeza",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta1"
+                    },
+                    {
+                        "id": "carta2",
+                        "title": "Carta de Felicidad",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta2"
+                    }
+                ]
+                },
+                {
+                "id": "coleccion4",
+                "nombre": "Abreme cuando estés feliz",
+                "ruta": "/colecciones/coleccion4",
+                "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+                "disponible": false,
+                "fecha_lanzamiento": "2025-07-15",
+                "color": "#33FF57",
+                "cartas": [
+                    {
+                        "id": "carta3",
+                        "title": "Carta de Felicidad",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta3"
+                    },
+                    {
+                        "id": "carta4",
+                        "title": "Carta de Felicidad 2",
+                        "content": "Carta de prueba donde comprobaremos como funciona el sistema de cartas.",
+                        "url": "/cartas/carta4"
+                    }
+                ]
+                }
+            ]
+        }
+    ]
+}

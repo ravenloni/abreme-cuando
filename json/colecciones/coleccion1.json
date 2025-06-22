@@ -1,0 +1,25 @@
+{
+    "id": "1",
+    "ruta": "/coleccion1",
+    "color": "#FF5733",
+    "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+    "nombre": "Abreme cuando estés triste",
+    "descripcion": "test",
+    "cartas": [
+        {
+            "id": "carta1",
+            "title": "Prueba",
+            "url": "/carta1"
+        },
+        {
+            "id": "carta2",
+            "title": "Prueba 2",
+            "url": "/carta2"
+        },
+        {
+            "id": "carta3",
+            "title": "Prueba 3",
+            "url": "/carta3"
+        }
+    ]
+}
