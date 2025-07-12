@@ -6,7 +6,7 @@
             "colecciones": [
                 {
                     "id": "coleccion1",
-                    "nombre": "Abreme cuando estés triste",
+                    "nombre": "Abreme cuando cumplamos 6 meses",
                     "ruta": "/colecciones/coleccion1",
                     "imagen": "https://ravenloni.github.io/abreme-cuando/images/portada.webp",
                     "disponible": true,
@@ -15,7 +15,7 @@
                     "cartas": [
                         {
                             "id": "carta1",
-                            "title": "Carta de Tristeza",
+                            "title": "Carta de aniversario",
                             "content": "Hola mi amor, ¿Cómo estás? nunca sé cómo empezar ni realmente sé lo que decirte. Felices 6 meses, es una banda ¿no? En fin, gracias por estar a mi lado, la verdad no esperaba que esto pasara, siempre lo he dicho que parece algo tan raro que es difícil asimilar, sé que muchas veces no soy capaz de poder expresarte lo mucho que te amo y tal, perdón por eso. Te amo demasiado, pero mucho mucho, en serio. Si te soy sincero no me imaginaba que esto llegaría a pasar, quiero decir, no imaginé que terminaría enamorado de ti y sobre todo que esta vez saldría bien. Estoy muy feliz actualmente con mi situación, quiero decir, tengo trabajo, tengo un título, tengo salud dentro de lo que cabe, estoy bien mentalmente, y sobre todo, tengo una novia a la que quiero mucho. Siempre he sido alguien muy de familia, de quedarme en casa y de llevar un estilo de vida tranquilo, ponele. Me siento bien sabiendo que eres mi familia, y sentir en familia cuando estoy contigo o en tu ambiente. Te amo como no hay manera Bettina. Hace años que tenía planeado lo que quería hacer, elegí a qué quería dedicarme hace años, elegí dónde quería estudiar, pues mi mayor preocupación era esa. Sin embargo, después de lograr lo que queria no tenía previsto nada, no era capaz de verme un futuro, no lo digo a mal si no que no tengo buena imaginación para esas cosas, y por más que parezca tenía controlada mi vida, eso sí, no estaba en un momento muy estable que digamos y la ansiedad me hizo planear todo. Pero ahora estoy bien, pero no puedo controlar mi vida, porque muchas veces haces lo que quieras y llegaste de forma tan inesperado que me cambias la vida, pienso incluso que podría considerarte mi amuleto de la suerte, desde que llegaste simplemente todo comenzó a ir mejor, y no podría estar mejor ahora, bueno quizás sí, pero para eso tendrías que venir. Te amo, te amo y te amo. Me haces tan bien y tan feliz pero eres tan ciega que no eres capaz de verlo, porque lo digo en serio, soy feliz contigo. Anhelo el día donde pueda abrazarte y contaré los días hasta que eso pase. ¿Eres real? por qué decidirias estar conmigo teniendo infinitas posibilidades que puedas tener más cerca. No sé qué vaya a pasar hoy, o mañana, pero no creo tener que preocuparme más por el futuro si te tengo a mi lado, por más incierto que sea el mañana, si sé que estás conmigo no necesito saber nada más. Me encantas, no sé cómo poder demostrarlo, pero solo sé que lo sé, te amo. Me encantas tú y cada parte de tí, por muy lindos que sean tus ojos parece que de mucho no sirven si dudas de lo que te quiero y te amo. Gracias por existir, por elegirme, y por quedarte. Hoy y siempre, soy feliz contigo. Te amo.",
                             "url": "/cartas/carta1"
                         }
