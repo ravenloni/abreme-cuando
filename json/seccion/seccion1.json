@@ -22,6 +22,67 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "sesccion2",
+            "nombre": "Primer aniversario",
+            "colecciones": [
+                {
+                    "id": "coleccion1",
+                    "nombre": "Feliz añito",
+                    "ruta": "/colecciones/coleccion1",
+                    "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+                    "disponible": true,
+                    "fecha_lanzamiento": "2026-01-13",
+                    "color": "#FF5733",
+                    "cartas": [
+                        {
+                            "id": "carta1",
+                            "title": "365",
+                            "content": "Te amo sin haberte conocido,  
+sin saber cómo hueles por la mañana,  
+sin haberte abrazado ni perdido  
+en el mapa de tu voz cercana.
+
+Conozco cada gesto en la pantalla,  
+el brillo de tus ojos cuando ríes,  
+pero no sé cómo tu mano encalla  
+en la mía, ni cómo nos dormimos.
+
+Doce horas de vuelo nos separan,  
+un océano entero y un continente,  
+mil euros que mis manos no disparan  
+aunque mi corazón los sienta urgente.
+
+Te mando flores que yo no te entrego,  
+regalos que otros brazos te han traído,  
+y celebramos fechas donde luego  
+cada uno se queda en su olvido.
+
+Hay noches en que pienso en tu cintura,  
+en cómo sería tocarte de verdad,  
+no a través de esta distancia dura,  
+sino en la misma habitación, ciudad.
+
+Me da miedo decir que quiero verte,  
+confesar este amor que cruza mares,  
+porque suena a locura el quererte  
+sin saber si encajamos en lugares.
+
+Pero algo en mí te reconoce,  
+algo en ti que con nadie más hallé,  
+una conexión que me estremece  
+aunque jamás tu piel acaricié.
+
+Y sueño con el día en que no sea  
+una pantalla lo que nos separe,  
+donde el amor que en digital flamea  
+encuentre carne, hueso, tierra, aire.",
+                            "url": "/cartas/carta1"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
