@@ -45,6 +45,29 @@
           ]
         }
       ]
+    }, 
+    {
+      "id": "sesccion3",
+      "nombre": "Abreme cuando estés triste",
+      "colecciones": [
+        {
+          "id": "coleccion1",
+          "nombre": "No llores más",
+          "ruta": "/colecciones/coleccion1",
+          "imagen": "https://ravenloni.github.io/abreme-cuando/images/elegir.jpg",
+          "disponible": true,
+          "fecha_lanzamiento": "2026-03-103",
+          "color": "#FF5733",
+          "cartas": [
+            {
+              "id": "carta1",
+              "title": "Bonita",
+              "content": "No quiero que llores más.\nSé que no soy el mejor expresandome pero no quiero que eso te haga sentir mal, te amo ¿si?\n\nEstoy enamorado de vos, en serio te lo digo.\nSos el amor de mi vida, no tengo duda de eso, y si no lo sos es porque me equivoqué de vida y no con vos.\n\nTe amo",
+              "url": "/cartas/carta1"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
